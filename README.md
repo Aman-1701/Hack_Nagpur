@@ -1,4 +1,4 @@
-# Healthsy
+# ML Models (Healthsy)
 
 **Demo Video:** https://youtu.be/vamrzCe_WUw<br>
 **Website:** https://healthsy.netlify.app/<br>
