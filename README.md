@@ -3,7 +3,7 @@
 **Demo Video:** https://youtu.be/vamrzCe_WUw<br>
 **Website:** https://healthsy.netlify.app/<br>
 **Website Repo:** https://www.github.com/amankr1619/Healthsy<br>
-**App Repository:** https://www.github.com/kpriyanksingh/healthsy_app<br>
+**App Repository:** https://www.github.com/priyank-kumar-singh/healthsy_app<br>
 **APK File (Profile Version):** https://drive.google.com/drive/folders/1fVnlYrMQ7uYpj_pysQRn48fU1BzjmIIo?usp=sharing
 
 Industrial Revolution 4.0 has put us in a critical spot to gather and manipulate huge amounts of data and automation is an integral part of the 21st century now. Almost every sector of the present world is directly or indirectly dependent on machines or in broad sense Artificial Intelligence and the medical field is no more an exception. With the increasing pressure and rush it becomes really important to automate health services and at certain instances it has been observed that AI has taken over humans. 
@@ -37,7 +37,7 @@ The models are trained in such a way that the predictions do not get biased. All
 **Demo Video:** https://youtu.be/vamrzCe_WUw<br>
 **Website:** https://healthsy.netlify.app/<br>
 **Website Repo:** https://www.github.com/amankr1619/Healthsy<br>
-**App Repository:** https://www.github.com/kpriyanksingh/healthsy_app<br>
+**App Repository:** https://www.github.com/priyank-kumar-singh/healthsy_app<br>
 **APK File (Profile Version):** https://drive.google.com/drive/folders/1fVnlYrMQ7uYpj_pysQRn48fU1BzjmIIo?usp=sharing
 
 ## DATASET USED:
